@@ -91,24 +91,10 @@ Create models that combine inputs to produce useful predictions on never-before-
 * Linear Regression
 
 Chirps per minute vs Temp in Celsius
-
-|       * 
-|  * * *      
-|  *    *
-|  *  *
-| * *
-|  *
-| _ _ _ _ _ _ _ _  
+![alt text](https://drive.google.com/uc?export=view&id=1a1S15ajdbMEKDwacqs1OsPW2oPv9Wqnl)
 
 Linear relationship
-
-|      /*
-|  * */*      
-|  * /  *
-|  */ *
-| */*
-| /*
-|/_ _ _ _ _ _ _ _         
+![alt text](https://drive.google.com/uc?export=view&id=1p9YOUfg6EuZzmCcr2nUUX-M0-3rOYkKH)       
 
 Slope of a line
 y = mx + b
