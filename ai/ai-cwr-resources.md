@@ -1,5 +1,9 @@
 # Resources:
 
+## Learning Resources
+https://www.tensorflow.org/tutorials
+
+
 ## Algorithms
 - Based on prob stats?
 - Different types of problems have tuned Algorithms

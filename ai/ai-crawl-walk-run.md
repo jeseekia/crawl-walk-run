@@ -9,18 +9,19 @@
 - Get off and RUNning on a challenge
 
 ## Benefits:
-- Reduce programming:
-- Customize products:
-- Solve unprogrammable problems: detect faces
+- Reduce programming: lots of conditionals
+- Customize products: provide personalized content
+- Solve un-programmable problems: detect faces
 - New problem-solving approach: experiments, statistics, thinking like a scientist
 
 ## Setup
 Copy/save colab: https://colab.research.google.com/drive/1XnIo3Nq0UFCX66ATIqOChvpBEOOsFLXu
 - Select "File"
 - Select "Save a notebook in Drive"
+_Uses Google Colaboratory app in Google Drive_
 
-Local setup: TODO
-
+Training on your computer is challenging and many times impossible due to the resources needed.
+Info on tools for training your model in the cloud will be included in the [resources](https://github.com/jeseekia/crawl-walk-run/blob/master/ai/ai-cwr-resources.md)
 
 # Crawl
 
