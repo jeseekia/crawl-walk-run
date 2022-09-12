@@ -1,6 +1,6 @@
 # Crawl, Walk, Run
 
-This guide shows the basics for getting started in AI through Machine Learning.
+This repo shows the basics for getting started with various software development topics.
 
 Currently it contains AI - Crawl, Walk, Run presented for HWTH Developer Conference Feb 29, 2020.
 
