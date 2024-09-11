@@ -2,6 +2,11 @@
 
 Welcome to this resource for the livestream hosted Wed, Sept 11, 2024 @ 1p et on https://www.twitch.tv/novabuildingstuff.
 
+## Live Workspace
+
+https://huggingface.co/spaces/metadevgirl/mdg
+
+
 ## Cheatsheet
 
 
@@ -9,18 +14,31 @@ Welcome to this resource for the livestream hosted Wed, Sept 11, 2024 @ 1p et on
 ## Glossary
 
 fast.ai
-huggingface
+
+Hugging Face
+
 Colab
+
 Jupyter Notebook
+
 Python
+
 Machine Learning
+
 Deep Learning
+
 training
+
 model
+
 data
+
 cleaning data
+
 function
+
 variable
+
 
 
 
