@@ -44,6 +44,9 @@ variable - A named piece of data, also found across various programming language
 
 ### Images used in example
 https://unsplash.com/photos/black-and-white-cat-lying-on-brown-bamboo-chair-inside-room-gKXKBY-C-Dk
+
 https://unsplash.com/photos/brown-tabby-cat-on-white-stairs-mJaD10XeD7w
+
 https://unsplash.com/photos/long-coated-black-and-white-dog-during-daytime-mx0DEnfYxic
+
 https://unsplash.com/photos/black-pug-wearing-striped-apparel-DziZIYOGAHc
